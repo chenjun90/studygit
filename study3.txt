@@ -1,3 +1,4 @@
 3
 chenjun
 测试git fetch and git merge
+测试git pull
